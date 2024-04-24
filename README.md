@@ -19,6 +19,9 @@
       <a href="#rodando-o-projeto">Rodando o projeto</a>
     </li>
     <li>
+      <a href="#links">Links</a>
+    </li>
+    <li>
       <a href="#sobre">Sobre</a>
     </li>
   </ol>
@@ -56,6 +59,18 @@ Para rodar o projeto dentro do diretório raiz no prompt digite:
 ```
 streamlit run app.py
 ``` 
+
+<!-- links -->
+## Links
+
+Links úteis:
+
+Streamlit: https://streamlit.io/
+
+Seaborn: https://seaborn.pydata.org/
+
+Matplotlib: https://matplotlib.org/
+
 <!-- sobre -->
 ## Sobre
 

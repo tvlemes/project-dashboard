@@ -13,7 +13,7 @@
       </ul>
     </li>
     <li>
-      <a href="#arquivos">Arquivos</a>
+      <a href="#pastas-e-arquivos">Pastas e Arquivos</a>
     </li>
     <li>
       <a href="#rodando-o-projeto">Rodando o projeto</a>
@@ -41,13 +41,13 @@ Nele foi implementado as seguintes bibliotecas:
 * display
 
 <!-- arquivos-e-pastas -->
-## Arquivos
+## Pastas e Arquivos 
 
-A estrutura física contém o arquivo <b>app.py</b> que é o arquivo principal
+A estrutura física contém o arquivo <b>app.py</b> que é o arquivo principal.
 
 Na pasta `dataset` contém o arquivo `Housing.csv` que são os dados utilizados.
 
-Na pasta html comtém os arquivos `analysis_report_profilereport.html` e `analysis_with_sweetviz.html` que são utilizados na dashboard.
+Na pasta `html` comtém os arquivos `analysis_report_profilereport.html` e `analysis_with_sweetviz.html` que são utilizados na dashboard.
 
 <!-- rodando-o-projeto -->
 ## Rodando o projeto

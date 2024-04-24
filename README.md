@@ -2,7 +2,7 @@
 
 <img src="https://github.com/tvlemes/project-dashboard/docs/gif_video.gif"> 
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS --> 
 <details open="open">
   <summary>Indície</summary>
   <ol>
